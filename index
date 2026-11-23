@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Визитка разработчика — Соболев Святослав</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="card">
+        <h1>Соболев Святослав</h1>
+        <p class="role">Начинающий веб-разработчик и иишник</p>
+        <p class="about">Изучаю HTML, CSS, Git, Go, Rust.</p>
+ <p class="about">Обожаю Monster и кибер-импланты</p>
+
+        <div class="contacts">
+            <p>Почта: <a href="mailto:openvare@gmail.com">openvare@gmail.com</a></p>
+            <p>GitHub: <a href="https://github.com" target="_blank">OpenVare</a></p>
+        </div>
+    </main>
+</body>
+</html>
+
